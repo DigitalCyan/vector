@@ -1,4 +1,4 @@
-mod vector3;
+pub mod vector3;
 
 #[cfg(test)]
 mod tests {
