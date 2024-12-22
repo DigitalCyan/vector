@@ -1,5 +1,5 @@
 use std::error::Error;
-use std::fmt::{Debug, Display, Formatter, Write};
+use std::fmt::{Debug, Display, Formatter};
 
 pub enum Vector3ErrorKind {
     Deserialization(Vector3DeserializationErrorKind),
