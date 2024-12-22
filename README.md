@@ -12,7 +12,7 @@ Make sure you have a project set up using `cargo` then:
 ### If using `cargo-edit`: 
 `cd` into the said project directory and execute
 ```
-cargo add vector
+cargo add vector3
 ```
 
 ### If not using `cargo-edit`:
